@@ -39,6 +39,9 @@
           case"listar":
             include("listar-usuario.php");
             break;
+            case"salvar":
+              include("salvar-usuario.php");
+            default:
             default:
             print"Olá, Bem Vindos";
         }
