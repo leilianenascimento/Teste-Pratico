@@ -42,7 +42,6 @@
             case"salvar":
               include("salvar-usuario.php");
             default:
-            default:
             print"Olá, Bem Vindos";
         }
 
